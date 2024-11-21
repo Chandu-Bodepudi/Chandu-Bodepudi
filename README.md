@@ -1,32 +1,78 @@
-## Hi there 👋  
+# Hi there, I'm Bodepudi Chandu 👋
 
-Welcome to my GitHub profile! Here’s a little about me:  
+I’m a passionate *Backend Developer* and a *Full Stack Java Developer* with a strong foundation in *Python, **C, **Java, and **Mainframe Technologies*. I aim to enhance my skills and contribute meaningfully to innovative projects.
 
-- 🔭 I’m currently working on **a personal portfolio website** to showcase my skills and projects.  
-- 🌱 I’m currently learning **Docker, Kubernetes, and advanced GitHub Actions workflows**.  
-- 👯 I’m looking to collaborate on **open-source projects that solve real-world problems**.  
-- 🤔 I’m looking for help with **improving CI/CD pipelines and scaling applications efficiently**.  
-- 💬 Ask me about **Git workflows, Python projects, or how to survive debugging marathons!**  
-- 📫 How to reach me: **[chandu@example.com](mailto:chandu@example.com)** or **[LinkedIn](https://linkedin.com/in/chandu)**.  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I can name every programming language I've tried while juggling (hint: it’s more than five!).**  
+### 🚀 About Me:
+- 🧑‍💻 Currently working as a *Project Engineer* at *Wipro Limited, focusing on Mainframe and Backend Development for the **ATM Disputes* project.
+- 💡 I’m passionate about working on projects that combine real-time data processing, machine learning, and automation.
+- 🌱 I’m constantly learning and staying updated with the latest technologies like *Angular, **Spring Boot, **Python, and **Deep Learning*.
 
 ---
 
-### 🚀 Some of My Favorite Projects:
-- **[Weather Tracker](https://github.com/Chandu-Bodepudi/weather-tracker)**  
-  A simple app to track weather data for any location using OpenWeatherMap API. Built with React and Node.js.  
-- **[GitHub Actions Templates](https://github.com/Chandu-Bodepudi/github-actions-templates)**  
-  Pre-built workflows for CI/CD automation to save time and effort!  
-- **[Markdown Magic](https://github.com/Chandu-Bodepudi/markdown-magic)**  
-  A handy tool to generate cool README files with minimal effort.  
+### 🛠️ Technologies & Skills:
+
+- *Programming Languages*: Python, C, Java (Full Stack)
+- *Web Technologies*: Angular, Spring Boot
+- *Mainframe Technologies*: JCL, COBOL, DB2, CICS
+- *Machine Learning*: TensorFlow, Keras (for deep learning models)
+- *Tools*: Git, Docker, Jenkins, LABVIEW
+- *Soft Skills*: Effective Communication, Decision Making, Team Collaboration
 
 ---
 
-### 📊 GitHub Stats:  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandu-Bodepudi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu-Bodepudi&layout=compact&theme=radical)  
+### 📚 Education:
+- *Bachelor of Technology (B.Tech)* in *Electronics and Communication Engineering* – *R.V.R & J.C College of Engineering* (2018 – 2022)  
+  CGPA: 7.46/10
+- *Senior Secondary (XII)* – *Narayana Jr. College*, MPC (95.6%)
+- *Secondary (X)* – *St. Ann’s English Medium School* (CGPA: 9.0/10)
 
 ---
 
-Feel free to explore my repositories, fork something cool, or just say hi. Let's build something amazing together! 🚀  
+### 💼 Work Experience:
+- *Wipro Limited, Hyderabad | **Project Engineer*  
+  - Currently working as a *Backend Developer* for the *ATM Disputes* project using *Mainframe technologies* (JCL, COBOL, DB2).
+  - Contributing to the design, development, and maintenance of backend systems.
+  
+- *Wipro Limited, Hyderabad | **Java Full Stack Developer* (Internship)  
+  - Gained hands-on experience in *Core Java, **Angular, and **Spring Boot*.
+  - Developed a *News App* as part of a capstone project during the internship.
+
+---
+
+### 🧑‍💻 Projects:
+- *[Real-time Disease Identification in Cotton Plants using UAV](#)*  
+  A deep learning-based solution to identify diseases in cotton crops using real-time UAV images. The backend processes the images, and results are communicated with location data via messages.  
+  - Technologies: *Python, **Deep Learning*
+
+- *[Banking System Project](#)*  
+  A mainframe-based project developed as part of internship training. Simulates a banking system with features like account management and transaction processing.  
+  - Technologies: *COBOL, **DB2, **JCL, **CICS*
+
+---
+
+### 🎓 Certifications:
+- *[NPTEL - Joy of Computing Python](#)*
+- *[NPTEL - Machine Learning for Soil and Crop Management](#)*
+- *[STACKROUTE NIIT - Java Full Stack](#)*
+
+---
+
+### 🌐 Find Me:
+- 📍 *Location*: Hyderabad, India
+- 🧑‍💻 *LinkedIn*: [@bodepudichandu](#)
+- 🌐 *Twitter/Blog/Portfolio*: [@bodepudichandu](#)
+- 💻 *GitHub*: [@BodepudiChandu](#)
+
+---
+
+### 📬 Let’s Connect:
+Feel free to reach out to me for collaborations, open-source contributions, or just to chat about tech! You can email me at [bodepudichandu@gmail.com](mailto:bodepudichandu@gmail.com).
+
+---
+
+### 🏅 Fun Fact:
+I’ve actively participated in several seminars, debates, and workshops and am a member of the Department Organizers Association at my college. I love learning about new technologies and applying them to real-world problems.
+
+---
+
+*"Strive for progress, not perfection."*
